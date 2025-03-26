@@ -1,0 +1,1515 @@
+{
+  "mod_elements": [
+    {
+      "name": "Sprunik1",
+      "type": "animatedentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_1_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik1Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik1Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik1Renderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik2",
+      "type": "animatedentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_2_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik2Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik2Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik2Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik3",
+      "type": "animatedentity",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik3Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik3Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik3Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_3_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik4",
+      "type": "animatedentity",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik4Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik4Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_4_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik4Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik5",
+      "type": "animatedentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik5Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik5Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik5Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_5_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik6",
+      "type": "animatedentity",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik6Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik6Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_6_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik6Renderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik7",
+      "type": "animatedentity",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik7Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_7_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik7Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik7Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik8",
+      "type": "animatedentity",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik8Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik8Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_8_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik8Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik9",
+      "type": "animatedentity",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_9",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik9Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik9Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_9_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik9Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik10",
+      "type": "animatedentity",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_10_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik10Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik10Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik10Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunky",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunky",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Sprunik11",
+      "type": "animatedentity",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_11",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik11Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik11Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik11Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_11_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik12",
+      "type": "animatedentity",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_12",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik12Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik12Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik12Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_12_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik13",
+      "type": "animatedentity",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_13",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_13_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik13Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik13Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik13Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik14",
+      "type": "animatedentity",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_14",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik14Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik14Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_14_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik14Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik15",
+      "type": "animatedentity",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_15",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_15_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik15Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik15Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik15Renderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik16",
+      "type": "animatedentity",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_16",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik16Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik16Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik16Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_16_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik17",
+      "type": "animatedentity",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_17",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik17Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik17Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik17Model.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_17_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik18",
+      "type": "animatedentity",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_18",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik18Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik18Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_18_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik18Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik19",
+      "type": "animatedentity",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_19",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik19Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik19Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik19Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_19_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik20",
+      "type": "animatedentity",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_20",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik20Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_20_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik20Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik20Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "ComputerGood",
+      "type": "animatedentity",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer_good",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/computer_good_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/ComputerGoodEntity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/ComputerGoodRenderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/ComputerGoodModel.java"
+        ]
+      }
+    },
+    {
+      "name": "ComputerEvil",
+      "type": "animatedentity",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "computer_evil",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/ComputerEvilEntity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/ComputerEvilModel.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/ComputerEvilRenderer.java",
+          "src/main/resources/assets/spruniki/models/item/computer_evil_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "TreeGood",
+      "type": "animatedentity",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_good",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/TreeGoodEntity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/TreeGoodModel.java",
+          "src/main/resources/assets/spruniki/models/item/tree_good_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/TreeGoodRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "TreeBad",
+      "type": "animatedentity",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tree_bad",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/TreeBadEntity.java",
+          "src/main/resources/assets/spruniki/models/item/tree_bad_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/TreeBadRenderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/TreeBadModel.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik21",
+      "type": "animatedentity",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_21",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_21_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik21Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik21Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik21Renderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik22",
+      "type": "animatedentity",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_22",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_22_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik22Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik22Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik22Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik23",
+      "type": "animatedentity",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_23",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik23Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_23_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik23Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik23Renderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik24",
+      "type": "animatedentity",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_24",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik24Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik24Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik24Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_24_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik25",
+      "type": "animatedentity",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_25",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik25Model.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_25_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik25Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik25Renderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik26",
+      "type": "animatedentity",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_26",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik26Renderer.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_26_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik26Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik26Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik27",
+      "type": "animatedentity",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_27",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_27_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik27Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik27Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik27Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik28",
+      "type": "animatedentity",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_28",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/sprunik_28_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik28Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik28Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik28Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik29",
+      "type": "animatedentity",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_29",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik29Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik29Model.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_29_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik29Renderer.java"
+        ]
+      }
+    },
+    {
+      "name": "Sprunik30",
+      "type": "animatedentity",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sprunik_30",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Sprunik30Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Sprunik30Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Sprunik30Entity.java",
+          "src/main/resources/assets/spruniki/models/item/sprunik_30_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "RainbowBeam",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_beam",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/item/RainbowBeamItem.java",
+          "src/main/resources/assets/spruniki/models/item/rainbow_beam.json"
+        ]
+      }
+    },
+    {
+      "name": "Faro",
+      "type": "animatedentity",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/FaroRenderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/FaroModel.java",
+          "src/main/java/net/youdzhi/spruniki/entity/FaroEntity.java",
+          "src/main/resources/assets/spruniki/models/item/faro_spawn_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "RainbowBeamRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_beam_rightclicked_on_block",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/RainbowBeamRightclickedOnBlockProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FaroOnEntityTickUpdate",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_on_entity_tick_update",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FaroOnEntityTickUpdateProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FaroOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_on_initial_entity_spawn",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FaroOnInitialEntitySpawnProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RainbowBeamRightclicked",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rainbow_beam_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/RainbowBeamRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Faro1",
+      "type": "animatedentity",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/Faro1Entity.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Faro1Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Faro1Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro2",
+      "type": "animatedentity",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Faro2Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Faro2Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Faro2Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro3",
+      "type": "animatedentity",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Faro3Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Faro3Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Faro3Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro4",
+      "type": "animatedentity",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Faro4Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Faro4Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Faro4Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro5",
+      "type": "animatedentity",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/entity/model/Faro5Model.java",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Faro5Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Faro5Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro6",
+      "type": "animatedentity",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Faro6Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Faro6Entity.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Faro6Model.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro7",
+      "type": "animatedentity",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/client/renderer/Faro7Renderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/Faro7Model.java",
+          "src/main/java/net/youdzhi/spruniki/entity/Faro7Entity.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro1Beam",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_1_beam",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/item/Faro1BeamItem.java",
+          "src/main/resources/assets/spruniki/models/item/faro_1_beam.json"
+        ]
+      }
+    },
+    {
+      "name": "Faro2Beam",
+      "type": "item",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_2_beam",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/faro_2_beam.json",
+          "src/main/java/net/youdzhi/spruniki/item/Faro2BeamItem.java"
+        ]
+      }
+    },
+    {
+      "name": "F1",
+      "type": "procedure",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/F1Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "F2",
+      "type": "procedure",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/F2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "F3",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/F3Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "F4",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/F4Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "F5",
+      "type": "procedure",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/F5Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "F6",
+      "type": "procedure",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/F6Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Faro3Beam",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_3_beam",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/item/Faro3BeamItem.java",
+          "src/main/resources/assets/spruniki/models/item/faro_3_beam.json"
+        ]
+      }
+    },
+    {
+      "name": "Faro4Beam",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_4_beam",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/faro_4_beam.json",
+          "src/main/java/net/youdzhi/spruniki/item/Faro4BeamItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro5Beam",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_5_beam",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/spruniki/models/item/faro_5_beam.json",
+          "src/main/java/net/youdzhi/spruniki/item/Faro5BeamItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Faro7Beam",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faro_7_beam",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/item/Faro7BeamItem.java",
+          "src/main/resources/assets/spruniki/models/item/faro_7_beam.json"
+        ]
+      }
+    },
+    {
+      "name": "F7",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "f_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/F7Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FF1",
+      "type": "procedure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ff_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FF1Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FF2",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ff_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FF2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FF3",
+      "type": "procedure",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ff_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FF3Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FF4",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ff_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FF4Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FF5",
+      "type": "procedure",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ff_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FF5Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FF7",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ff_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/youdzhi/spruniki/procedures/FF7Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Wenda",
+      "type": "animatedentity",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wenda",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/spruniki/forge/biome_modifier/wenda_biome_modifier.json",
+          "src/main/java/net/youdzhi/spruniki/client/renderer/WendaRenderer.java",
+          "src/main/java/net/youdzhi/spruniki/entity/model/WendaModel.java",
+          "src/main/resources/assets/spruniki/models/item/wenda_spawn_egg.json",
+          "src/main/java/net/youdzhi/spruniki/entity/WendaEntity.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "item.spruniki.faro_4_beam": "Music Beam",
+      "item.aspruniki.sprunik_15_spawn_egg": "Sprunki §8(15)§r Spawn Egg",
+      "entity.aspruniki.tree_good": "Tree §2(Good)§r",
+      "entity.spruniki.computer_evil": "Computer §4(Evil)§r",
+      "entity.spruniki.tree_good": "Tree §2(Good)§r",
+      "item.aspruniki.sprunik_5_spawn_egg": "Sprunki §8(5)§r Spawn Egg",
+      "item.spruniki.faro_7_spawn_egg": "Faro Spawn Egg",
+      "item.spruniki.wenda_spawn_egg": "Wenda Spawn Egg",
+      "item.spruniki.sprunik_24_spawn_egg": "Sprunki §8(24)§r Spawn Egg",
+      "item.spruniki.faro_5_beam": "Music Beam",
+      "item.spruniki.sprunik_16_spawn_egg": "Sprunki §8(16)§r Spawn Egg",
+      "item.spruniki.sprunik_17_spawn_egg": "Sprunki (17) Spawn Egg",
+      "entity.aspruniki.sprunik_1": "Sprunki §8(1)§r",
+      "item.aspruniki.sprunik_14_spawn_egg": "Sprunki §8(14)§r Spawn Egg",
+      "entity.aspruniki.sprunik_4": "Sprunki §8(4)§r",
+      "entity.aspruniki.sprunik_5": "Sprunki §8(5)§r",
+      "entity.aspruniki.sprunik_2": "Sprunki §8(2)§r",
+      "entity.aspruniki.sprunik_3": "Sprunki §8(3)§r",
+      "entity.aspruniki.sprunik_8": "Sprunki §8(8)§r",
+      "entity.aspruniki.sprunik_9": "Sprunki §8(9)§r",
+      "entity.aspruniki.sprunik_6": "Sprunki §8(6)§r",
+      "entity.aspruniki.sprunik_7": "Sprunki §8(7)§r",
+      "item.spruniki.faro_6_spawn_egg": "Faro Spawn Egg",
+      "item.spruniki.computer_good_spawn_egg": "Computer §2(Good)§r Spawn Egg",
+      "item.spruniki.sprunik_4_spawn_egg": "Sprunki §8(4)§r Spawn Egg",
+      "item.spruniki.faro_3_beam": "Music Beam",
+      "item.spruniki.sprunik_10_spawn_egg": "Sprunki §8(10)§r Spawn Egg",
+      "item.spruniki.sprunik_23_spawn_egg": "Sprunki §8(23)§r Spawn Egg",
+      "item.aspruniki.sprunik_4_spawn_egg": "Sprunki §8(4)§r Spawn Egg",
+      "entity.spruniki.sprunik_29": "Sprunki §8(29)§r",
+      "item.spruniki.faro_1_spawn_egg": "Faro Spawn Egg",
+      "item.spruniki.sprunik_6_spawn_egg": "Sprunki §8(6)§r Spawn Egg",
+      "item.spruniki.sprunik_14_spawn_egg": "Sprunki §8(14)§r Spawn Egg",
+      "item.aspruniki.computer_evil_spawn_egg": "Computer §4(Evil)§r Spawn Egg",
+      "item.aspruniki.sprunik_7_spawn_egg": "Sprunki §8(7)§r Spawn Egg",
+      "item.spruniki.sprunik_26_spawn_egg": "Sprunki §8(26)§r Spawn Egg",
+      "entity.spruniki.sprunik_30": "Sprunki §8(30)§r",
+      "item.spruniki.faro_2_beam": "Music Beam",
+      "item.aspruniki.sprunik_17_spawn_egg": "Sprunki (17) Spawn Egg",
+      "item.aspruniki.tree_good_spawn_egg": "Tree §2(Good)§r Spawn Egg",
+      "item.spruniki.sprunik_3_spawn_egg": "Sprunki §8(3)§r Spawn Egg",
+      "item.spruniki.sprunik_11_spawn_egg": "Sprunki §8(11)§r Spawn Egg",
+      "item.spruniki.sprunik_29_spawn_egg": "Sprunki §8(29)§r Spawn Egg",
+      "item.spruniki.sprunik_9_spawn_egg": "Sprunki §8(9)§r Spawn Egg",
+      "item.spruniki.sprunik_19_spawn_egg": "Sprunki §8(19)§r Spawn Egg",
+      "entity.aspruniki.computer_evil": "Computer §4(Evil)§r",
+      "item.spruniki.tree_bad_spawn_egg": "Tree §4(Evil)§r Spawn Egg",
+      "item.spruniki.sprunik_21_spawn_egg": "Sprunki §8(21)§r Spawn Egg",
+      "entity.spruniki.computer_good": "Computer §2(Good)§r",
+      "entity.spruniki.faro_4": "Faro",
+      "entity.spruniki.faro_3": "Faro",
+      "entity.spruniki.tree_bad": "Tree §4(Evil)§r",
+      "entity.spruniki.faro_2": "Faro",
+      "entity.spruniki.faro_1": "Faro",
+      "item.spruniki.faro_4_spawn_egg": "Faro Spawn Egg",
+      "entity.spruniki.faro_7": "Faro",
+      "entity.spruniki.faro_6": "Faro",
+      "entity.spruniki.faro_5": "Faro",
+      "item.spruniki.faro_spawn_egg": "Faro Spawn Egg",
+      "item.aspruniki.sprunik_9_spawn_egg": "Sprunki §8(9)§r Spawn Egg",
+      "item.aspruniki.computer_good_spawn_egg": "Computer §2(Good)§r Spawn Egg",
+      "item.spruniki.faro_3_spawn_egg": "Faro Spawn Egg",
+      "item.spruniki.sprunik_1_spawn_egg": "Sprunki §8(1)§r Spawn Egg",
+      "item.spruniki.sprunik_20_spawn_egg": "Sprunki §8(20)§r Spawn Egg",
+      "item.aspruniki.sprunik_2_spawn_egg": "Sprunki §8(2)§r Spawn Egg",
+      "entity.aspruniki.sprunik_20": "Sprunki §8(20)§r",
+      "item.spruniki.sprunik_13_spawn_egg": "Sprunki §8(13)§r Spawn Egg",
+      "item.aspruniki.sprunik_19_spawn_egg": "Sprunki §8(19)§r Spawn Egg",
+      "entity.spruniki.wenda": "Wenda",
+      "item.spruniki.sprunik_27_spawn_egg": "Sprunki §8(27)§r Spawn Egg",
+      "entity.spruniki.sprunik_14": "Sprunki §8(14)§r",
+      "item.aspruniki.sprunik_12_spawn_egg": "Sprunki §8(12)§r Spawn Egg",
+      "entity.spruniki.sprunik_15": "Sprunki §8(15)§r",
+      "entity.spruniki.sprunik_16": "Sprunki §8(16)§r",
+      "entity.spruniki.sprunik_17": "Sprunki (17)",
+      "entity.spruniki.sprunik_10": "Sprunki §8(10)§r",
+      "entity.spruniki.sprunik_11": "Sprunki §8(11)§r",
+      "entity.spruniki.sprunik_12": "Sprunki §8(12)§r",
+      "item_group.aspruniki.sprunky": "Sprunky",
+      "item.spruniki.sprunik_8_spawn_egg": "Sprunki §8(8)§r Spawn Egg",
+      "entity.spruniki.sprunik_13": "Sprunki §8(13)§r",
+      "entity.spruniki.sprunik_18": "Sprunki §8(18)§r",
+      "entity.spruniki.sprunik_19": "Sprunki §8(19)§r",
+      "item.aspruniki.sprunik_8_spawn_egg": "Sprunki §8(8)§r Spawn Egg",
+      "item.aspruniki.sprunik_1_spawn_egg": "Sprunki §8(1)§r Spawn Egg",
+      "entity.aspruniki.sprunik_10": "Sprunki §8(10)§r",
+      "entity.aspruniki.sprunik_12": "Sprunki §8(12)§r",
+      "entity.aspruniki.sprunik_11": "Sprunki §8(11)§r",
+      "item.spruniki.faro_2_spawn_egg": "Faro Spawn Egg",
+      "entity.aspruniki.sprunik_14": "Sprunki §8(14)§r",
+      "entity.aspruniki.computer_good": "Computer §2(Good)§r",
+      "entity.aspruniki.sprunik_13": "Sprunki §8(13)§r",
+      "entity.aspruniki.sprunik_16": "Sprunki §8(16)§r",
+      "item.aspruniki.sprunik_18_spawn_egg": "Sprunki §8(18)§r Spawn Egg",
+      "entity.spruniki.sprunik_20": "Sprunki §8(20)§r",
+      "item.spruniki.computer_evil_spawn_egg": "Computer §4(Evil)§r Spawn Egg",
+      "entity.aspruniki.sprunik_15": "Sprunki §8(15)§r",
+      "item.aspruniki.sprunik_11_spawn_egg": "Sprunki §8(11)§r Spawn Egg",
+      "entity.aspruniki.sprunik_18": "Sprunki §8(18)§r",
+      "entity.aspruniki.sprunik_17": "Sprunki (17)",
+      "entity.aspruniki.sprunik_19": "Sprunki §8(19)§r",
+      "entity.spruniki.sprunik_25": "Sprunki §8(25)§r",
+      "item.spruniki.sprunik_7_spawn_egg": "Sprunki §8(7)§r Spawn Egg",
+      "entity.spruniki.sprunik_26": "Sprunki §8(26)§r",
+      "item_group.spruniki.sprunky": "Sprunky",
+      "entity.spruniki.sprunik_27": "Sprunki §8(27)§r",
+      "entity.spruniki.sprunik_28": "Sprunki §8(28)§r",
+      "entity.spruniki.sprunik_21": "Sprunki §8(21)§r",
+      "entity.spruniki.sprunik_22": "Sprunki §8(22)§r",
+      "entity.spruniki.sprunik_23": "Sprunki §8(23)§r",
+      "entity.spruniki.sprunik_24": "Sprunki §8(24)§r",
+      "item.spruniki.rainbow_beam": "Music Beam",
+      "item.spruniki.faro_7_beam": "Music Beam",
+      "item.spruniki.sprunik_18_spawn_egg": "Sprunki §8(18)§r Spawn Egg",
+      "item.spruniki.sprunik_22_spawn_egg": "Sprunki §8(22)§r Spawn Egg",
+      "item.spruniki.faro_1_beam": "Music Beam",
+      "item.aspruniki.sprunik_3_spawn_egg": "Sprunki §8(3)§r Spawn Egg",
+      "entity.spruniki.sprunik_7": "Sprunki §8(7)§r",
+      "entity.spruniki.sprunik_8": "Sprunki §8(8)§r",
+      "entity.spruniki.sprunik_5": "Sprunki §8(5)§r",
+      "item.spruniki.tree_good_spawn_egg": "Tree §2(Good)§r Spawn Egg",
+      "entity.spruniki.sprunik_6": "Sprunki §8(6)§r",
+      "entity.spruniki.sprunik_3": "Sprunki §8(3)§r",
+      "item.spruniki.sprunik_30_spawn_egg": "Sprunki §8(30)§r Spawn Egg",
+      "item.spruniki.faro_5_spawn_egg": "Faro Spawn Egg",
+      "entity.spruniki.sprunik_4": "Sprunki §8(4)§r",
+      "entity.spruniki.sprunik_1": "Sprunki §8(1)§r",
+      "entity.spruniki.sprunik_2": "Sprunki §8(2)§r",
+      "item.aspruniki.sprunik_20_spawn_egg": "Sprunki §8(20)§r Spawn Egg",
+      "entity.spruniki.faro": "Faro",
+      "item.aspruniki.tree_bad_spawn_egg": "Tree §4(Evil)§r Spawn Egg",
+      "entity.aspruniki.tree_bad": "Tree §4(Evil)§r",
+      "entity.spruniki.sprunik_9": "Sprunki §8(9)§r",
+      "item.spruniki.sprunik_15_spawn_egg": "Sprunki §8(15)§r Spawn Egg",
+      "item.aspruniki.sprunik_16_spawn_egg": "Sprunki §8(16)§r Spawn Egg",
+      "item.aspruniki.sprunik_6_spawn_egg": "Sprunki §8(6)§r Spawn Egg",
+      "item.spruniki.sprunik_5_spawn_egg": "Sprunki §8(5)§r Spawn Egg",
+      "item.aspruniki.sprunik_10_spawn_egg": "Sprunki §8(10)§r Spawn Egg",
+      "item.spruniki.sprunik_25_spawn_egg": "Sprunki §8(25)§r Spawn Egg",
+      "item.spruniki.sprunik_12_spawn_egg": "Sprunki §8(12)§r Spawn Egg",
+      "item.spruniki.sprunik_2_spawn_egg": "Sprunki §8(2)§r Spawn Egg",
+      "item.spruniki.sprunik_28_spawn_egg": "Sprunki §8(28)§r Spawn Egg",
+      "item.aspruniki.sprunik_13_spawn_egg": "Sprunki §8(13)§r Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "spruniki",
+    "modName": "Spruniki",
+    "version": "1.0.0",
+    "author": "Youdzhi",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.youdzhi.spruniki"
+  },
+  "mcreatorVersion": 202400118518
+}
